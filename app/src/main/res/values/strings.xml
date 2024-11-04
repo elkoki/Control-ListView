@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Control ListView</string>
+    <string name="txtView">Selecciona un pais de la lista</string>
+</resources>
